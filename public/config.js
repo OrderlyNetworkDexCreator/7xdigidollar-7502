@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "7xDigiDollar",
   "VITE_SEO_SITE_DESCRIPTION": "Africa’s first mobile-native decentralized exchange. Trade USD and BTC via USSD.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/7xdigidollar-7502/",
+  "VITE_SEO_SITE_URL": "https://trade.7xdigidollar.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@7xDigiDollar",
